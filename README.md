@@ -70,6 +70,6 @@ Pinpoints low-performing products for pricing review or promotional campaigns.
 Provides leadership with a clear overview of financial health and sales trends.
 
 ## Screenshot 
-Dashboard Preview: ![Dashboard Preview](https://github.com/kalashjain03/HR-Analytics-Dashboard/blob/main/HR%20Analytis%20Dashboard.png)
+Dashboard Preview: ![Dashboard Preview](https://github.com/kalashjain03/Sales-Performance-Analysis-Dashboard/blob/main/Sales%20Performance%20Dashboard.png)
 
 
